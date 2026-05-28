@@ -21,4 +21,4 @@ Website portfolio pribadi fullstack menggunakan Express.js (backend) dan Vue.js 
 
 
 ## Link Deployment
-(isi nanti)
+-
